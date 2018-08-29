@@ -1,0 +1,110 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,
+pre,code,form,fieldset,legend,input,button,label,
+textarea,select,p,blockquote,th,td,header,footer,section,
+ul,li,img,figure {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+fieldset {
+	border:0;
+}
+address,button,caption,cite,code,dfn,em,input,optgroup,option,select,strong,textarea,th,var {
+	font: inherit;
+}
+del, ins {
+	text-decoration: none;
+}
+caption,
+th {
+	text-align: left;
+}
+q:before,
+q:after {
+	content: '';
+}
+abbr,
+acronym {
+	border: 0;
+	font-variant: normal;
+}
+sup {
+	vertical-align: baseline;
+}
+sub {
+	vertical-align: baseline;
+}
+legend {
+	color: #000;
+}
+li {
+	list-style: none;
+}
+body {
+	width: 600px;
+	padding: 10px;
+	background: green;
+	color: black;
+	font-size: 18px;
+}
+section {
+	padding: 20px;
+	background: grey;
+	border: 10px solid green;
+	border-radius: 40px;
+}
+h1 {
+	font-weight: bold;
+	font-size: 22px;
+	color: green;
+	text-align: center;
+}
+ul {
+
+}
+ul > li {
+	padding: 10px;
+}
+
+.tabs {
+  border: 1px solid #ddd;
+  position: relative;
+  margin-top: 5rem;
+  margin-bottom: 3rem;
+}
+
+.tabs__section {
+  margin: 1rem;
+}
+
+.tabs__navigation {
+  margin-left: -1px;
+  position: absolute;
+  top: -34px;
+}
+
+.tabs__link {
+  display: inline-block;
+  border: 1px solid #ddd;
+  text-decoration: none;
+  padding: .25rem .75rem;
+  color: #B3B3B3;
+  background: #E7E7E7;
+  margin-left: .25rem;
+}
+
+.tabs__link:first-child {
+  margin-left: 0;
+}
+
+.tabs__link--active {
+  font-weight: bold;
+  border-bottom-color: #fff;
+  background: #fff;
+  color: #186baa;
+}
+    

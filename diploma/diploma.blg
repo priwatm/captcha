@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: diploma.aux
+The style file: unsrt.bst
+Database file #1: biblio.bib
+Repeated entry---line 624 of file biblio.bib
+ : @inproceedings{krizhevsky2012imagenet
+ :                                      ,
+I'm skipping whatever remains of this entry
+You've used 74 entries,
+            1791 wiz_defined-function locations,
+            852 strings with 16750 characters,
+and the built_in function-call counts, 17992 in all, are:
+= -- 1657
+> -- 722
+< -- 22
++ -- 273
+- -- 199
+* -- 1098
+:= -- 2699
+add.period$ -- 229
+call.type$ -- 74
+change.case$ -- 64
+chr.to.int$ -- 0
+cite$ -- 74
+duplicate$ -- 875
+empty$ -- 1812
+format.name$ -- 199
+if$ -- 4145
+int.to.chr$ -- 0
+int.to.str$ -- 74
+missing$ -- 79
+newline$ -- 368
+num.names$ -- 72
+pop$ -- 273
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 464
+stack$ -- 0
+substring$ -- 1184
+swap$ -- 263
+text.length$ -- 22
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 181
+width$ -- 76
+write$ -- 793
+(There was 1 error message)

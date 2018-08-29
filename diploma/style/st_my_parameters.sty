@@ -1,0 +1,22 @@
+%% -*- coding: utf-8 -*-
+
+\newlength{\ML}																		% Длина для подчеркивания
+\settowidth{\ML}{«\underline{\hspace{0.7cm}}» \underline{\hspace{2cm}}}
+
+\newcommand\MCauthorsign[4]{											% {Звание и должность}{И}{О}{Фамилия}
+	#1 & $\underset{\text{(подпись, дата)}}{\underline{\hspace{5cm}}}$ & #2.\,#3.~#4\\
+}
+	
+\newcommand\MCauthorsignext[3]{										% {Звание и должность}{ФИО}{(Разделы)}
+	#1 & $\underset{\text{(подпись, дата)}}{\underline{\hspace{3cm}}}$ & #2 & #3 \\
+}
+
+\newcommand\MCworknumber{14.618.21.0004}																			% Номер работы (соглашения)
+\newcommand\MCworkcode{2015-14-588-0005-140}																	% Шифр работы
+\newcommand\MCworkstart{11.11.2015 г.} 																					% Дата начала работы
+\newcommand\MCworkfinish{31.12.2016 г.}																					% Дата окончания работы
+\newcommand\MCworkstartstep{1.1.2016 г.}																				% Дата начала работ по этапу
+\newcommand\MCworkfinishstep{31.12.2016 г.}																			% Дата окончания работ по этапу
+\newcommand\MCworkname{QTT-технология решения многомасштабных задач}    					% Название проекта
+\newcommand\ENworkname{QTT-based technology for multiscale problems}
+\newcommand\MCworknamecap{QTT-ТЕХНОЛОГИЯ РЕШЕНИЯ МНОГОМАСШТАБНЫХ ЗАДАЧ}		% Название проекта заглавными буквами

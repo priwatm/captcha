@@ -1,0 +1,133 @@
+%% -*- coding: utf-8 -*-
+
+\renewcommand{\thefootnote}{(\arabic{footnote})}
+%\renewcommand{\theequation}{\arabic{section}.\arabic{equation}}
+
+
+\usepackage{lastpage}
+\usepackage{totcount}
+\newtotcounter{citnum} %From the package documentation
+\def\oldbibitem{} \let\oldbibitem=\bibitem
+\def\bibitem{\stepcounter{citnum}\oldbibitem}
+
+\regtotcounter{page}
+\regtotcounter{section}
+\regtotcounter{figure}
+\regtotcounter{table}
+
+
+
+\usepackage{longtable}
+\usepackage{tabularx,ragged2e,booktabs,caption}
+\usepackage{ulem}
+
+\usepackage{bm}
+\usepackage[cal=boondoxo]{mathalfa}
+\usepackage{amssymb,amsthm,amsmath,amsfonts,amsopn,mathtools}
+\usepackage{subcaption}
+\usepackage{caption} % подписи к рисункам в русской типографской традиции
+
+\usepackage{graphicx}
+\usepackage{pgf}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\usetikzlibrary{plotmarks}
+
+\usepackage{titlesec}
+\usepackage{setspace}
+\usepackage{listliketab}
+\usepackage{extsizes}
+\usepackage{cmap}
+
+\usepackage[left=2cm,right=2cm, top=2cm,bottom=2cm,bindingoffset=0cm]{geometry}
+\usepackage{tocloft}
+
+\usepackage{pdflscape}
+\usepackage{multirow}
+
+%\usepackage{misccorr}
+
+\usepackage{mathtools}
+
+\bibliographystyle{unsrt}
+
+\linespread{1.3}
+\renewcommand{\rmdefault}{ftm} % использовать Times New Roman
+
+\titleformat{\section}[block]{\Large\bfseries\filcenter}{}{1em}{}
+
+\DeclareCaptionFormat{GOSTtable}{#2#1\\#3}
+\DeclareCaptionLabelSeparator{fill}{\hfill}
+\DeclareCaptionLabelFormat{fullparents}{\bothIfFirst{#1}{~}#2}
+\captionsetup[table]{
+     format=GOSTtable,
+     font={footnotesize},
+     labelformat=fullparents,
+     labelsep=fill,
+     labelfont=it,
+     textfont=bf,
+     justification=centering,
+     singlelinecheck=false
+     }
+
+%\renewcommand{\section}{\@startsection{section}{1}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus.2ex}{\Large\sf\center}}
+\renewcommand{\section}{\@startsection{section}{1}{20pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus.2ex}{\Large\bfseries}}
+%{\Large\center\bfseries}}
+\renewcommand{\thesection}{\arabic{section}}
+
+\renewcommand{\subsection}{\@startsection{subsection}{1}{20pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus.2ex}{\normalsize\bfseries}}
+
+%\renewcommand{\theenumi}{\arabic{enumii}}
+
+%создание и автоматическая нумерация списков
+%\RequirePackage{enumitem}
+%\renewcommand{\alph}[1]{\asbuk{#1}} % костыль для кирилической нумерации вместо латинской
+
+%\usepackage{enumitem}
+%\setlist{nolistsep} % убираем дополнительные вертикальные отступы вокруг списков
+%\setenumerate[1]{label=\alph*), fullwidth, % , itemindent=\parindent
+%listparindent=\parindent}
+%\setenumerate[2]{label=\arabic*), fullwidth, itemindent=\doubleparindent,
+%listparindent=\parindent}
+
+%Пакет russianb вводит три команды для набора тире, которые печатаются согласно россий-
+%ской традиции.
+%Команда "--- используется для печати тире в тексте. Оно несколько короче английского
+%длинного тире. Кроме того, команда задаёт небольшую жёсткую отбивку от слова, стоящего
+%перед тире. При этом, само тире не отрывается от слова. После тире следует такая же
+%отбивка от текста, как и перед тире. При наборе текста между словом и командой, за
+%которым она следует, должен стоять пробел.
+%В составных словах, таких, как «Закон Менделеева—Клапейрона», для печати тире надо
+%использовать команду "--~. Она ставит более короткое, по сравнению с английским, тире и
+%позволяет делать переносы во втором слове. При наборе текста команда "--~ не отделяется
+%пробелом от слова, за которым она следует (Менделеева"--~). Следующее за командой
+%слово может быть отделено от неё пробелом или перенесено на другую строку.
+%Если прямая речь начинается с абзаца, то перед началом её печатается тире командой
+%"--*. Она печатает русское тире и жёсткую отбивку нужной величины перед текстом.
+%Вместо команд, начинающихся с символа ", можно использовать аналогичные им по
+%действию, но более длинные в наборе, команды \cdash---, \cdash--~ и \cdash--*,
+%соответственно.
+
+
+%Для печати дефиса в составных словах введены две команды. Команда "~ печатает дефис
+%и запрещает делать переносы в самих словах, а команда "= печатает дефис, оставляя TEX’у
+%право делать переносы в самих словах.
+%В отличие от команды \-, команда "- задаёт место в слове, где можно делать перенос,
+%не запрещяя переносы и в других местах слова.
+%Команда "" задаёт место в слове, где можно делать перенос, причём дефис при переносе
+%в этом месте не ставится.
+%Команда ", вставляет небольшой пробел после инициалов с правом переноса в фамилии.
+
+
+\renewcommand{\rmdefault}{cmr}  % Шрифт с засечками
+\renewcommand{\sfdefault}{cmss} % Шрифт без засечек
+\renewcommand{\ttdefault}{cmtt} % Моноширинный шрифт
+
+% Colorized comment
+\usepackage[colorinlistoftodos,textwidth=4cm,shadow]{todonotes}
+\newcounter{mynote}
+\newcommand{\mynote}[1]{
+	\refstepcounter{mynote}{
+		\todo[inline,color={green!11!green!22},size=\small]{\textbf{[mynote\themynote]:}~#1}
+	}
+}

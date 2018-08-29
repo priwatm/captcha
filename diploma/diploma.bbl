@@ -1,0 +1,442 @@
+\begin{thebibliography}{10}
+
+\bibitem{michalski2013machine}
+Ryszard~S Michalski, Jaime~G Carbonell, and Tom~M Mitchell.
+\newblock {\em Machine learning: An artificial intelligence approach}.
+\newblock Springer Science \& Business Media, 2013.
+
+\bibitem{von2003captcha}
+Luis Von~Ahn, Manuel Blum, Nicholas~J Hopper, and John Langford.
+\newblock Captcha: Using hard ai problems for security.
+\newblock In {\em International Conference on the Theory and Applications of
+  Cryptographic Techniques}, pages 294--311. Springer, 2003.
+
+\bibitem{hebb2005organization}
+Donald~Olding Hebb.
+\newblock {\em The organization of behavior: A neuropsychological theory}.
+\newblock Psychology Press, 2005.
+
+\bibitem{haykin2008nnbook}
+Саймон Хайкин.
+\newblock {\em Нейронные сети: полный курс, 2-е
+  издание}.
+\newblock Издательский дом Вильямс, 2008.
+
+\bibitem{mcculloch1943logical}
+Warren~S McCulloch and Walter Pitts.
+\newblock A logical calculus of the ideas immanent in nervous activity.
+\newblock {\em The bulletin of mathematical biophysics}, 5(4):115--133, 1943.
+
+\bibitem{Python_van2011}
+Guido Van~Rossum and Fred~L Drake.
+\newblock {\em The python language reference manual}.
+\newblock Network Theory Ltd., 2011.
+
+\bibitem{Python_kuhlman2009}
+Dave Kuhlman.
+\newblock {\em A Python Book: Beginning Python, Advanced Python, and Python
+  Exercises}.
+\newblock Dave Kuhlman, 2009.
+
+\bibitem{Python_ceder2010}
+Vern Ceder.
+\newblock {\em The quick python book}.
+\newblock Manning Publications Co., 2010.
+
+\bibitem{vinner1948cybernetics}
+N~Vinner.
+\newblock Cybernetics, 1948.
+
+\bibitem{hebb1949organization}
+Donald~Olding Hebb.
+\newblock {\em The organization of behavior: A neuropsychological approach}.
+\newblock John Wiley \& Sons, 1949.
+
+\bibitem{williams1986learning}
+DRGHR Williams and GE~Hinton.
+\newblock Learning representations by back-propagating errors.
+\newblock {\em Nature}, 323(6088):533--538, 1986.
+
+\bibitem{PCAorigin_pearson1901}
+Karl Pearson.
+\newblock Liii. on lines and planes of closest fit to systems of points in
+  space.
+\newblock {\em The London, Edinburgh, and Dublin Philosophical Magazine and
+  Journal of Science}, 2(11):559--572, 1901.
+
+\bibitem{PCAorigin_hotelling1933}
+Harold Hotelling.
+\newblock Analysis of a complex of statistical variables into principal
+  components.
+\newblock {\em Journal of educational psychology}, 24(6):417, 1933.
+
+\bibitem{KL_methods_Karhunen1947}
+K~Karhunen.
+\newblock {\"U}ber lineare methoden in der wahrscheinlichkeitsrechnung, vol.
+  37.
+\newblock {\em Annales Academi{\ae}Scientiarum Fennic{\ae}, Ser. A. I}, 1947.
+
+\bibitem{KL_methods_Loeve1948}
+M~Loeve.
+\newblock Fonctions aldatories de seconde ordre.
+\newblock {\em Hermann, Paris}, 1948.
+
+\bibitem{karamizadeh2013overview}
+Sasan Karamizadeh, Shahidan~M Abdullah, Azizah~A Manaf, Mazdak Zamani, and
+  Alireza Hooman.
+\newblock An overview of principal component analysis.
+\newblock {\em Journal of Signal and Information Processing}, 4(03):173, 2013.
+
+\bibitem{deng2014transform}
+Weihong Deng, Jiani Hu, Jiwen Lu, and Jun Guo.
+\newblock Transform-invariant pca: A unified approach to fully automatic
+  facealignment, representation, and recognition.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  36(6):1275--1284, 2014.
+
+\bibitem{koza1994genetic}
+John~R Koza.
+\newblock Genetic programming ii: Automatic discovery of reusable subprograms.
+\newblock {\em Cambridge, MA, USA}, 1994.
+
+\bibitem{banzhaf1998genetic}
+Wolfgang Banzhaf, Peter Nordin, Robert~E Keller, and Frank~D Francone.
+\newblock {\em Genetic programming: an introduction}, volume~1.
+\newblock Morgan Kaufmann San Francisco, 1998.
+
+\bibitem{silver2016mastering}
+David Silver, Aja Huang, Chris~J Maddison, Arthur Guez, Laurent Sifre, George
+  Van Den~Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda
+  Panneershelvam, Marc Lanctot, et~al.
+\newblock Mastering the game of go with deep neural networks and tree search.
+\newblock {\em Nature}, 529(7587):484--489, 2016.
+
+\bibitem{paulinas2015survey}
+Mantas Paulinas and Andrius U{\v{s}}inskas.
+\newblock A survey of genetic algorithms applications for image enhancement and
+  segmentation.
+\newblock {\em Information Technology and control}, 36(3), 2015.
+
+\bibitem{jaderberg2014synthetic}
+Max Jaderberg, Karen Simonyan, Andrea Vedaldi, and Andrew Zisserman.
+\newblock Synthetic data and artificial neural networks for natural scene text
+  recognition.
+\newblock {\em arXiv preprint arXiv:1406.2227}, 2014.
+
+\bibitem{rowley1998neural}
+Henry~A Rowley, Shumeet Baluja, and Takeo Kanade.
+\newblock Neural network-based face detection.
+\newblock {\em IEEE Transactions on pattern analysis and machine intelligence},
+  20(1):23--38, 1998.
+
+\bibitem{ciregan2012multi}
+Dan Ciregan, Ueli Meier, and J{\"u}rgen Schmidhuber.
+\newblock Multi-column deep neural networks for image classification.
+\newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2012 IEEE
+  Conference on}, pages 3642--3649. IEEE, 2012.
+
+\bibitem{simonyan2014very}
+Karen Simonyan and Andrew Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem{karpathy2015deep}
+Andrej Karpathy and Li~Fei-Fei.
+\newblock Deep visual-semantic alignments for generating image descriptions.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 3128--3137, 2015.
+
+\bibitem{wang2010semi}
+Jun Wang, Sanjiv Kumar, and Shih-Fu Chang.
+\newblock Semi-supervised hashing for scalable image retrieval.
+\newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2010 IEEE
+  Conference on}, pages 3424--3431. IEEE, 2010.
+
+\bibitem{dony1995neural}
+Robert~D Dony and Simon Haykin.
+\newblock Neural network approaches to image compression.
+\newblock {\em Proceedings of the IEEE}, 83(2):288--303, 1995.
+
+\bibitem{daugman1988complete}
+John~G Daugman.
+\newblock Complete discrete 2-d gabor transforms by neural networks for image
+  analysis and compression.
+\newblock {\em IEEE Transactions on Acoustics, Speech, and Signal Processing},
+  36(7):1169--1179, 1988.
+
+\bibitem{jain2009natural}
+Viren Jain and Sebastian Seung.
+\newblock Natural image denoising with convolutional networks.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  769--776, 2009.
+
+\bibitem{yang2002image}
+WQ~Yang and Lihui Peng.
+\newblock Image reconstruction algorithms for electrical capacitance
+  tomography.
+\newblock {\em Measurement science and technology}, 14(1):R1, 2002.
+
+\bibitem{gregor2015draw}
+Karol Gregor, Ivo Danihelka, Alex Graves, Danilo~Jimenez Rezende, and Daan
+  Wierstra.
+\newblock Draw: A recurrent neural network for image generation.
+\newblock {\em arXiv preprint arXiv:1502.04623}, 2015.
+
+\bibitem{ulyanov2016texture}
+Dmitry Ulyanov, Vadim Lebedev, Andrea Vedaldi, and Victor Lempitsky.
+\newblock Texture networks: Feed-forward synthesis of textures and stylized
+  images.
+\newblock In {\em Int. Conf. on Machine Learning (ICML)}, 2016.
+
+\bibitem{rosenblatt1958perceptron}
+Frank Rosenblatt.
+\newblock The perceptron: A probabilistic model for information storage and
+  organization in the brain.
+\newblock {\em Psychological review}, 65(6):386, 1958.
+
+\bibitem{fletcher1963rapidly}
+Roger Fletcher and Michael~JD Powell.
+\newblock A rapidly convergent descent method for minimization.
+\newblock {\em The computer journal}, 6(2):163--168, 1963.
+
+\bibitem{bottou2010large}
+L{\'e}on Bottou.
+\newblock Large-scale machine learning with stochastic gradient descent.
+\newblock In {\em Proceedings of COMPSTAT'2010}, pages 177--186. Springer,
+  2010.
+
+\bibitem{an2017captcha}
+Gaihuan An and Wanjun Yu.
+\newblock Captcha recognition algorithm based on the relative shape context and
+  point pattern matching.
+\newblock In {\em Measuring Technology and Mechatronics Automation (ICMTMA),
+  2017 9th International Conference on}, pages 168--172. IEEE, 2017.
+
+\bibitem{hussain2016recognition}
+Rafaqat Hussain, Hui Gao, Riaz~Ahmed Shaikh, and Shazia~Parveen Soomro.
+\newblock Recognition based segmentation of connected characters in text based
+  captchas.
+\newblock In {\em Communication Software and Networks (ICCSN), 2016 8th IEEE
+  International Conference on}, pages 673--676. IEEE, 2016.
+
+\bibitem{wang2017combining}
+Ye~Wang, Yuanjiang Huang, Wu~Zheng, Zhi Zhou, Debin Liu, and Mi~Lu.
+\newblock Combining convolutional neural network and self-adaptive algorithm to
+  defeat synthetic multi-digit text-based captcha.
+\newblock In {\em Industrial Technology (ICIT), 2017 IEEE International
+  Conference on}, pages 980--985. IEEE, 2017.
+
+\bibitem{hussain2016segmentation}
+Rafaqat Hussain, Hui Gao, and Riaz~Ahmed Shaikh.
+\newblock Segmentation of connected characters in text-based captchas for
+  intelligent character recognition.
+\newblock {\em Multimedia Tools and Applications}, pages 1--15, 2016.
+
+\bibitem{mori2003recognizing}
+Greg Mori and Jitendra Malik.
+\newblock Recognizing objects in adversarial clutter: Breaking a visual
+  captcha.
+\newblock In {\em Computer Vision and Pattern Recognition, 2003. Proceedings.
+  2003 IEEE Computer Society Conference on}, volume~1, pages I--I. IEEE, 2003.
+
+\bibitem{lecun1998mnist}
+Yann LeCun, Corinna Cortes, and Christopher~JC Burges.
+\newblock The mnist database of handwritten digits, 1998.
+
+\bibitem{singh2011digit}
+Devinder Singh and Baljit~Singh Khehra.
+\newblock Digit recognition system using back propagation neural network.
+\newblock {\em International Journal of Computer Science and Communication},
+  2(1):197--205, 2011.
+
+\bibitem{nnvis}
+\url{https://www.graphcore.ai/blog/what-does-machine-learning-look-like}.
+
+\bibitem{babu2014handwritten}
+U~Ravi Babu, Aneel~Kumar Chintha, and Y~Venkateswarlu.
+\newblock Handwritten digit recognition using structural, statistical features
+  and k-nearest neighbor classifier.
+\newblock {\em International Journal of Information Engineering and Electronic
+  Business}, 6(1):62, 2014.
+
+\bibitem{lam1992thinning}
+Louisa Lam, Seong-Whan Lee, and Ching~Y Suen.
+\newblock Thinning methodologies-a comprehensive survey.
+\newblock {\em IEEE Transactions on pattern analysis and machine intelligence},
+  14(9):869--885, 1992.
+
+\bibitem{gramblivcka2016comparison}
+MAT{\'U}{\v{S}} GRAMBLI{\v{C}}KA and JOZEF VASK{\'Y}.
+\newblock Comparison of thinning algorithms for vectorization of engineering
+  drawings.
+\newblock {\em Journal of Theoretical and Applied Information Technology},
+  94(2), 2016.
+
+\bibitem{zhang1984fast}
+TY~Zhang and Ching~Y. Suen.
+\newblock A fast parallel algorithm for thinning digital patterns.
+\newblock {\em Communications of the ACM}, 27(3):236--239, 1984.
+
+\bibitem{fujita2015extract}
+Kazuhisa Fujita.
+\newblock Extract an essential skeleton of a character as a graph from a
+  character image.
+\newblock {\em arXiv preprint arXiv:1506.05068}, 2015.
+
+\bibitem{supriana2014handwriting}
+Iping Supriana and Mastur Jaelani.
+\newblock Handwriting recognition using river-lake skeletonization with
+  combination of structural elements similarity classification.
+\newblock In {\em Electrical Engineering and Computer Science (ICEECS), 2014
+  International Conference on}, pages 47--52. IEEE, 2014.
+
+\bibitem{fritzke1995growing}
+Bernd Fritzke et~al.
+\newblock A growing neural gas network learns topologies.
+\newblock {\em Advances in neural information processing systems}, 7:625--632,
+  1995.
+
+\bibitem{toussaint1980relative}
+Godfried~T Toussaint.
+\newblock The relative neighbourhood graph of a finite planar set.
+\newblock {\em Pattern recognition}, 12(4):261--268, 1980.
+
+\bibitem{zou2003fast}
+Ju~Jia Zou.
+\newblock A fast skeletonization method.
+\newblock {\em Proc. 5th Digital Image Computing Techniques and Applications},
+  2003.
+
+\bibitem{zou2001skeletonization}
+Ju~Jia Zou and Hong Yan.
+\newblock Skeletonization of ribbon-like shapes based on regularity and
+  singularity analyses.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics, Part B
+  (Cybernetics)}, 31(3):401--407, 2001.
+
+\bibitem{deng2009imagenet}
+Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, and Li~Fei-Fei.
+\newblock Imagenet: A large-scale hierarchical image database.
+\newblock In {\em Computer Vision and Pattern Recognition, 2009. CVPR 2009.
+  IEEE Conference on}, pages 248--255. IEEE, 2009.
+
+\bibitem{le2013building}
+Quoc~V Le.
+\newblock Building high-level features using large scale unsupervised learning.
+\newblock In {\em Acoustics, Speech and Signal Processing (ICASSP), 2013 IEEE
+  International Conference on}, pages 8595--8598. IEEE, 2013.
+
+\bibitem{hinton2012deep}
+Geoffrey Hinton, Li~Deng, Dong Yu, George~E Dahl, Abdel-rahman Mohamed, Navdeep
+  Jaitly, Andrew Senior, Vincent Vanhoucke, Patrick Nguyen, Tara~N Sainath,
+  et~al.
+\newblock Deep neural networks for acoustic modeling in speech recognition: The
+  shared views of four research groups.
+\newblock {\em IEEE Signal Processing Magazine}, 29(6):82--97, 2012.
+
+\bibitem{dahl2012context}
+George~E Dahl, Dong Yu, Li~Deng, and Alex Acero.
+\newblock Context-dependent pre-trained deep neural networks for
+  large-vocabulary speech recognition.
+\newblock {\em IEEE Transactions on Audio, Speech, and Language Processing},
+  20(1):30--42, 2012.
+
+\bibitem{krizhevsky2012imagenet}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1097--1105, 2012.
+
+\bibitem{szegedy2015going}
+Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir
+  Anguelov, Dumitru Erhan, Vincent Vanhoucke, and Andrew Rabinovich.
+\newblock Going deeper with convolutions.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 1--9, 2015.
+
+\bibitem{novikov2015tensorizing}
+Alexander Novikov, Dmitrii Podoprikhin, Anton Osokin, and Dmitry~P Vetrov.
+\newblock Tensorizing neural networks.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  442--450, 2015.
+
+\bibitem{lebedev2014speeding}
+Vadim Lebedev, Yaroslav Ganin, Maksim Rakhuba, Ivan Oseledets, and Victor
+  Lempitsky.
+\newblock Speeding-up convolutional neural networks using fine-tuned
+  cp-decomposition.
+\newblock {\em arXiv preprint arXiv:1412.6553}, 2014.
+
+\bibitem{socher2013reasoning}
+Richard Socher, Danqi Chen, Christopher~D Manning, and Andrew Ng.
+\newblock Reasoning with neural tensor networks for knowledge base completion.
+\newblock In {\em Advances in neural information processing systems}, pages
+  926--934, 2013.
+
+\bibitem{yu2012large}
+Dong Yu, Li~Deng, and Frank Seide.
+\newblock Large vocabulary speech recognition using deep tensor neural
+  networks.
+\newblock In {\em INTERSPEECH}, pages 6--9, 2012.
+
+\bibitem{yu2013deep}
+Dong Yu, Li~Deng, and Frank Seide.
+\newblock The deep tensor neural network with applications to large vocabulary
+  speech recognition.
+\newblock {\em IEEE Transactions on Audio, Speech, and Language Processing},
+  21(2):388--396, 2013.
+
+\bibitem{kim2015compression}
+Yong-Deok Kim, Eunhyeok Park, Sungjoo Yoo, Taelim Choi, Lu~Yang, and Dongjun
+  Shin.
+\newblock Compression of deep convolutional neural networks for fast and low
+  power mobile applications.
+\newblock {\em arXiv preprint arXiv:1511.06530}, 2015.
+
+\bibitem{janzamin2015beating}
+Majid Janzamin, Hanie Sedghi, and Anima Anandkumar.
+\newblock Beating the perils of non-convexity: Guaranteed training of neural
+  networks using tensor methods.
+\newblock {\em arXiv preprint arXiv:1506.08473}, 2015.
+
+\bibitem{oseledets2010tt}
+Ivan Oseledets and Eugene Tyrtyshnikov.
+\newblock Tt-cross approximation for multidimensional arrays.
+\newblock {\em Linear Algebra and its Applications}, 432(1):70--88, 2010.
+
+\bibitem{oseledets2011tensor}
+Ivan~V Oseledets.
+\newblock Tensor-train decomposition.
+\newblock {\em SIAM Journal on Scientific Computing}, 33(5):2295--2317, 2011.
+
+\bibitem{savostyanov2011fast}
+Dmitry Savostyanov and Ivan Oseledets.
+\newblock Fast adaptive interpolation of multi-dimensional arrays in tensor
+  train format.
+\newblock In {\em Multidimensional (nD) Systems (nDs), 2011 7th International
+  Workshop on}, pages 1--8. IEEE, 2011.
+
+\bibitem{oseledets2010approximation}
+Ivan~V Oseledets.
+\newblock Approximation of 2\^{}d$\backslash$times2\^{}d matrices using tensor
+  decomposition.
+\newblock {\em SIAM Journal on Matrix Analysis and Applications},
+  31(4):2130--2145, 2010.
+
+\bibitem{tirt_matix}
+Тыртышников~Е. Е.
+\newblock {\em Матричный анализ и линейная
+  алгебра}.
+\newblock Физматлит М., 2007.
+
+\bibitem{svd}
+Gene Golub and William Kahan.
+\newblock Calculating the singular values and pseudo-inverse of a matrix.
+\newblock {\em Journal of the Society for Industrial \& Applied Mathematics,
+  Series B: Numerical Analysis}, 2(2):205--224, 1965.
+
+\bibitem{lapack}
+Lapack library.
+\newblock \url{http://www.netlib.org/lapack/}.
+
+\end{thebibliography}
